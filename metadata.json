@@ -1,0 +1,6 @@
+{
+  "name": "NOIR ATELIER - Thời Trang Thiết Kế Cao Cấp",
+  "description": "Cửa hàng thời trang may đo và thiết kế đương đại với chất liệu cao cấp, bảng gợi ý size thông minh, phối đồ lookbook và đặt hàng nhanh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
